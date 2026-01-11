@@ -1,5 +1,17 @@
 # 💫 About Me:
-I’m Raza Ahmed, a passionate Next.js 15 developer 💻 with expertise in JavaScript, TypeScript, and Sanity CMS. With a strong foundation in frontend development, I specialize in building high-performance web applications using Next.js 15, ensuring optimized rendering, API integrations, and seamless user experiences ⚡.<br><br>I have hands-on experience working with Sanity CMS 🏗️, enabling dynamic content management and structured data handling for scalable applications. My proficiency in JavaScript and TypeScript allows me to write clean, maintainable, and efficient code 🧑‍💻, ensuring both flexibility and reliability in development.<br><br>As a Figma web designer 🎨, I craft intuitive and visually appealing user interfaces, focusing on user-centric design principles to enhance the overall user experience 🖌️.<br><br>Currently, I am expanding my knowledge in Agentic AI and Generative AI 🤖 through my studies at GIAIC. This education is enhancing my understanding of autonomous decision-making systems and the creation of original content through AI, which I aim to integrate into my development projects 🔥.<br><br>My goal is to build scalable, performant, and user-friendly applications while continuously exploring the latest advancements in web technologies and artificial intelligence 🚀.<br><br>Let’s build something amazing together! ✨
+I’m Raza Ahmed, a Python Developer and Full-Stack Web Developer with over 3 years of freelance experience, focused on building scalable backend systems, modern web applications, and AI-powered solutions. I enjoy working across the full stack, combining strong engineering practices with clean, user-focused design.
+
+On the frontend, I’m a passionate Next.js 15 developer with solid expertise in JavaScript, TypeScript, and Sanity CMS. I specialise in building high-performance applications with optimised rendering strategies, efficient API integrations, and smooth, reliable user experiences. I’ve worked extensively with Sanity CMS to implement dynamic content management, structured data models, and scalable architectures suitable for growing products.
+
+On the backend, Python is my core strength. I build APIs, automation workflows, and intelligent systems using modern Python tooling. I actively work with SpecKit, the OpenAI Agents SDK, Gemini CLI, and Claude Code to design and implement agent-based workflows, document-driven chatbots, and AI-assisted developer tools. My focus is always on maintainable code, clarity, and real-world usability.
+
+I also have experience as a Figma-based web designer, allowing me to translate ideas into intuitive, visually appealing interfaces while keeping accessibility and user-centric design principles at the forefront.
+
+Currently, I’m deepening my expertise in Agentic AI and Generative AI through my studies at GIAIC, where I’m learning about autonomous decision-making systems, multi-agent architectures, and practical AI integrations. My goal is to blend modern web development with intelligent systems to create applications that are not only fast and scalable, but also genuinely smart.
+
+I’m always exploring new technologies, refining my skills, and building solutions that are practical, performant, and future-ready.
+
+Let’s build something amazing together.
 
 
 ## 🌐 Socials:
