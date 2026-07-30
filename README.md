@@ -1,39 +1,102 @@
-# 💫 About Me:
-I’m Raza Ahmed, a Python Developer and Full-Stack Web Developer with over 3 years of freelance experience, focused on building scalable backend systems, modern web applications, and AI-powered solutions. I enjoy working across the full stack, combining strong engineering practices with clean, user-focused design.
+# 💫 About Me
 
-On the frontend, I’m a passionate Next.js 15 developer with solid expertise in JavaScript, TypeScript, and Sanity CMS. I specialise in building high-performance applications with optimised rendering strategies, efficient API integrations, and smooth, reliable user experiences. I’ve worked extensively with Sanity CMS to implement dynamic content management, structured data models, and scalable architectures suitable for growing products.
+I'm Raza Ahmed, a **Full Stack Engineer**, **Agentic AI Developer**, and **Data & Automation Executive** based in Karachi, Pakistan. I build seamless, user-focused web experiences and AI-driven automation — from custom Shopify Liquid/JS pricing engines to full-stack Next.js platforms and agentic AI workflows.
 
-On the backend, Python is my core strength. I build APIs, automation workflows, and intelligent systems using modern Python tooling. I actively work with SpecKit, the OpenAI Agents SDK, Gemini CLI, and Claude Code to design and implement agent-based workflows, document-driven chatbots, and AI-assisted developer tools. My focus is always on maintainable code, clarity, and real-world usability.
+Currently contracting as **Data & Automation Executive at Smile Floors**, engineering custom Shopify automation and managing bulk SKU data through Matrixify. Previously: Full Stack Developer at **Zyra Publishers**, Shopify Developer at **The Storvia Designers**, Web Designer at **Timegram**, and Graphic Designer at **VserveU**.
 
-I also have experience as a Figma-based web designer, allowing me to translate ideas into intuitive, visually appealing interfaces while keeping accessibility and user-centric design principles at the forefront.
+Pursuing a **BS in Software Engineering at Sir Syed University of Engineering and Technology (SSUET)** (expected 2029), alongside certifications in AI-Driven Development, Prompt Engineering, and Graphic & Web Development — currently working toward **CAARE (Certified Agentic AI Robotics Engineering)**.
 
-Currently, I’m deepening my expertise in Agentic AI and Generative AI through my studies at GIAIC, where I’m learning about autonomous decision-making systems, multi-agent architectures, and practical AI integrations. My goal is to blend modern web development with intelligent systems to create applications that are not only fast and scalable, but also genuinely smart.
+- 🔭 **Currently building:** Shopify automation workflows and AI-native web apps that pair Next.js with agentic backends
+- 🌱 **Currently learning:** Multi-agent architectures, RAG pipelines, and vector databases (Qdrant)
+- 💬 **Ask me about:** Next.js, Shopify Liquid, Python APIs, or AI agent workflows
+- 📫 **Reach me:** hafizrazaahmed42@gmail.com
 
-I’m always exploring new technologies, refining my skills, and building solutions that are practical, performant, and future-ready.
+## 🌐 Socials
 
-Let’s build something amazing together.
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=framer&logoColor=white)](https://raza-ahmed-khan.framer.website)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raza-ahmed-khan)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/hafizrazaahmed)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/raza._.ahmed321)
 
+## 💻 Tech Stack
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/hafizrazaahmed) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raza._.ahmed321) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raza-ahmed-a39886290) 
+**Languages**
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=raza-ahmed-khan360&theme=solarized-dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=raza-ahmed-khan360&theme=solarized-dark&hide_border=true)<br/>
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frameworks & Frontend**
+
+![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
+
+**E-commerce & CMS**
+
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
+
+**Agentic AI & AI-Native Tooling**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini%20CLI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logoColor=white)
+
+**Design & Prototyping**
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+**Dev Tools & Deployment**
+
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+## 🏆 Certifications
+
+- Certified Agentic AI Robotics Engineering (CAARE) — *In Progress*
+- AI Driven Development — *Completed*
+- OpenAI Agents SDK & Prompt Engineering — *Completed*
+- Graphic & Web Designing/Development — *Completed*
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=raza-ahmed-khan360&theme=solarized-dark&hide_border=true&include_all_commits=true&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=raza-ahmed-khan360&theme=solarized-dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=raza-ahmed-khan360&theme=solarized-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=raza-ahmed-khan360&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
+
 ![](https://github-contributor-stats.vercel.app/api?username=raza-ahmed-khan360&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=raza-ahmed-khan360&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
