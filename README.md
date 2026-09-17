@@ -68,7 +68,7 @@ Pursuing a **BS in Software Engineering at Sir Syed University of Engineering an
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
 ## 🏆 Certifications
 
@@ -86,9 +86,11 @@ Pursuing a **BS in Software Engineering at Sir Syed University of Engineering an
 
 ## 🏆 GitHub Trophies
 
+![GitHub Trophies](./.github/assets/trophies.svg)
+
 ## 🏆 Commit Trophy
 
-![Commits Trophy](https://github-profile-trophy-fork-two.vercel.app/?username=raza-ahmed-khan360&title=Commits&theme=radical&no-frame=true&no-bg=true)
+![Commit Trophy](./.github/assets/commit-trophy.svg)
 
 ### ✍️ Random Dev Quote
 
