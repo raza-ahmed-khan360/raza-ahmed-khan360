@@ -88,10 +88,6 @@ Pursuing a **BS in Software Engineering at Sir Syed University of Engineering an
 
 ![GitHub Trophies](./.github/assets/trophies.svg)
 
-## 🏆 Commit Trophy
-
-![Commit Trophy](./.github/assets/commit-trophy.svg)
-
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
