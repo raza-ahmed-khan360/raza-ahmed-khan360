@@ -1,0 +1,44 @@
+name: Update GitHub Trophies
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/trophies.yml
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate all trophies
+        uses: soulteary/github-profile-trophy-action@v1
+        with:
+          options: 'username=${{ github.repository_owner }}&theme=radical&column=4&margin-w=10&margin-h=10&no-bg=true&no-frame=true'
+          path: .github/assets/trophies.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate commit trophy
+        uses: soulteary/github-profile-trophy-action@v1
+        with:
+          options: 'username=${{ github.repository_owner }}&title=Commits&theme=radical&no-bg=true&no-frame=true'
+          path: .github/assets/commit-trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit generated trophies
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .github/assets/trophies.svg .github/assets/commit-trophy.svg
+          git commit -m "Update GitHub trophies" || exit 0
+          git push
