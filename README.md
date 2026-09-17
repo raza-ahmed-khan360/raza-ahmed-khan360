@@ -86,7 +86,7 @@ Pursuing a **BS in Software Engineering at Sir Syed University of Engineering an
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=raza-ahmed-khan360&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-[![GitHub Trophy](https://vercel.app)](https://github.com)
+[![GitHub Trophy](https://vercel.app)](https://github.com/raza-ahmed-khan360)
 
 
 ### ✍️ Random Dev Quote
