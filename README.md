@@ -84,18 +84,9 @@ Pursuing a **BS in Software Engineering at Sir Syed University of Engineering an
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raza-ahmed-khan360&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raza-ahmed-khan360&theme=github_dark)
 
-## 📊 GitHub Activity
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raza-ahmed-khan360&theme=github_dark)
-
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raza-ahmed-khan360&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raza-ahmed-khan360&theme=github_dark" />
-</p>
-
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=raza-ahmed-khan360&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=raza-ahmed-khan360&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### ✍️ Random Dev Quote
