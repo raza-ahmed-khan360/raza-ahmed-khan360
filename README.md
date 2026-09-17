@@ -99,8 +99,4 @@ Pursuing a **BS in Software Engineering at Sir Syed University of Engineering an
 
 ---
 
-### 👀 Profile Views
-
-[![](https://visitcount.itsvg.in/api?id=raza-ahmed-khan360&icon=6&color=6)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
