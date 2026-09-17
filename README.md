@@ -79,9 +79,10 @@ Pursuing a **BS in Software Engineering at Sir Syed University of Engineering an
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=raza-ahmed-khan360&theme=solarized-dark&hide_border=true&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=raza-ahmed-khan360&theme=solarized-dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=raza-ahmed-khan360&theme=solarized-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raza-ahmed-khan360&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raza-ahmed-khan360&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raza-ahmed-khan360&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raza-ahmed-khan360&theme=github_dark)
 
 ## 🏆 GitHub Trophies
 
